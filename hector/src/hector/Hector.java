@@ -1,8 +1,9 @@
 package hector;
 
 public class Hector {
-public static void main(String args[])
-{
-	System.out.println("Project: Hector");
-}
+	static void print()
+	{
+		System.out.println("Project: Hector");
+	}
+
 }
